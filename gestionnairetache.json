@@ -1,0 +1,46 @@
+{
+  "tasks": [
+    {
+      "nom": "Faire les devoirs",
+      "description": "Math\u00c3\u00a9matiques et fran\u00c3\u00a7ais",
+      "date_d_echeance": "2023-12-10",
+      "etat": "en cours"
+    },
+    {
+      "nom": "R\u00c3\u00a9viser Python",
+      "description": "Pr\u00c3\u00a9paration pour l'examen",
+      "date_d_echeance": "2023-12-15",
+      "etat": "en attente"
+    },
+    {
+      "nom": "Faire les courses",
+      "description": "\u00c3\u2030picerie et produits m\u00c3\u00a9nagers",
+      "date_d_echeance": "2023-12-05",
+      "etat": "\u00c3\u00a0 faire"
+    },
+    {
+      "nom": "Organiser une r\u00c3\u00a9union",
+      "description": "Discussion sur les projets en cours",
+      "date_d_echeance": "2023-12-08",
+      "etat": "planifi\u00c3\u00a9"
+    },
+    {
+      "nom": "Faire du sport",
+      "description": "Entra\u00c3\u00aenement cardio et musculation",
+      "date_d_echeance": "2023-12-12",
+      "etat": "en cours"
+    },
+    {
+      "nom": "R\u00c3\u00a9diger un rapport",
+      "description": "Analyse des tendances du march\u00c3\u00a9",
+      "date_d_echeance": "2023-12-20",
+      "etat": "en attente"
+    },
+    {
+      "nom": "Pr\u00c3\u00a9parer un discours",
+      "description": "Intervention lors d'une conf\u00c3\u00a9rence",
+      "date_d_echeance": "2023-12-25",
+      "etat": "\u00c3\u00a0 faire"
+    }
+  ]
+}
